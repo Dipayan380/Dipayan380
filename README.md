@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dipayan380
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dipayan Barua
+- 👀 I’m interested in Python, Machine Learning and IOT
+- 🌱 I’m currently learning Machine Learning 
+- 💞️ I’m looking to collaborate on a research paper
+- 📫 dipayanbarua380@gmail.com 
 
 <!---
 Dipayan380/Dipayan380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
